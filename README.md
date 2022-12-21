@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **preparing for USACO**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue**
 
 - 📫 How to reach me **317295@aaps.k12.mi.us OR rudradip.ray1@gmail.com**
 
