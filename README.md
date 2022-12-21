@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rudradip Ray</h1>
-<h3 align="center">A passionate Python & C++ Dev from USA</h3>
+<h3 align="center">A passionate Python, JS, and C++ Dev from USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudadrip&label=Profile%20views&color=0e75b6&style=flat" alt="rudadrip" /> </p>
 
 - 🔭 I’m currently working on **preparing for USACO**
 
-- 🌱 I’m currently learning **Javascipt**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **317295@aaps.k12.mi.us OR rudradip.ray1@gmail.com**
 
